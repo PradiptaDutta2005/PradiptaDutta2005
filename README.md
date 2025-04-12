@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Pradipta Dutta
 
 Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 👨‍💻 About Me
 
-- 💻 Currently learning **HTML**, diving into frontend development  
+- 💻 Exploring **frontend & backend development** with real-world projects   
 - ☕ Passionate about **Java**, especially backend systems  
 - 🌱 Exploring tech one project at a time  
 
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - **Frontend**: `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`
 - **Backend**: `Flask`, `Firebase Realtime Database`
 - **Machine Learning**: `scikit-learn`, `pandas`, `pickle`
-- **Hardware & IoT**: `ESP32`, `IR sensors`, `DHT11`, `Soil Moisture Sensor`, `L298N Motor Driver`
 - **Tools**: `Git`, `GitHub`, `VS Code`
 
 ---
@@ -34,12 +33,11 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📫 Connect with Me
 
 You can reach out to me through:
-- 📧 Email: *[your-email@example.com]*
-- 💼 LinkedIn: *[linkedin.com/in/your-profile]*
+- 💼 LinkedIn: *https://www.linkedin.com/in/pradipta-dutta-a133a9292/*
 
 ---
 
-> ✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* ✨
+> ✨ *“Simplicity is the soul of efficiency.” — Austin Freeman* ✨
 
 ---
 
